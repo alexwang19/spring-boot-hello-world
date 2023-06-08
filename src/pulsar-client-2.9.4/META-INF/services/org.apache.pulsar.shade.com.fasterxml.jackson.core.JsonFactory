@@ -1,0 +1,2 @@
+org.apache.pulsar.shade.com.fasterxml.jackson.dataformat.yaml.YAMLFactory
+org.apache.pulsar.shade.com.fasterxml.jackson.core.JsonFactory

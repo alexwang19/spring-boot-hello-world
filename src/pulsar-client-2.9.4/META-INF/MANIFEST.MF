@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Created-By: Maven Jar Plugin 3.2.0
+Build-Jdk-Spec: 11
+Specification-Title: Pulsar Client Java
+Specification-Version: 2.9
+Specification-Vendor: Apache Software Foundation
+Implementation-Title: Pulsar Client Java
+Implementation-Version: 2.9.4
+Implementation-Vendor: Apache Software Foundation
+
