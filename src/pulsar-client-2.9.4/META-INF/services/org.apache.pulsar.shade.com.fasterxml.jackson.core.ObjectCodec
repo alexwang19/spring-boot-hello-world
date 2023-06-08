@@ -1,2 +1,0 @@
-org.apache.pulsar.shade.com.fasterxml.jackson.databind.ObjectMapper
-org.apache.pulsar.shade.com.fasterxml.jackson.dataformat.yaml.YAMLMapper
